@@ -1,0 +1,1 @@
+Random Numbers app with mainactivity for generating random number. History activity to view history of the random generated numbers, and guessing game with user can guess the hidden random number between 1 and 100.
